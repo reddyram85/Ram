@@ -1,0 +1,46 @@
+
+Hi,
+
+As requested by you, I am ok to support with testing of the application to the Product owner or authority who are responsible for PROD testing. Where I have already performed multiple times the same for QA and UAT enviranment. 
+However I am not responsible for PROD testing and I am not the authority to give or perform PROD testing. It is purely from Product owner side.
+
+Please find the below information.
+
+1) I am aware with full testing part as a tester but not worked as product owner so not aware about any specific action which they will take as per the project go-live or other responsibilities.
+2) Even to PROD testing, Please provide prod login credentials and merchant cofigurations like NetBanking, cards , URL's or merchant information which need to share so that I can perform testing and provide the result.
+3) We have know issues in QA those list along with if any production side issues will provide the result.
+
+However any of the my result is only application functionality wise testing only, the Product owner testing might be different as may have any additional testing.
+
+
+
+
+
+1. In refunds Refund Amt(Rs.) space
+2. * need to remove from issue date in einvoice
+3. In E kart description *
+4. customer name validation
+
+
+
+
+9916735706
+Dwa7@bhu1
+884821
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Shipping and discount
+2. In email customer reg number 
+3. customer wants to resend to another mobile number.
+4. 
