@@ -12,18 +12,6 @@ Please find the below information.
 
 However any of the my result is only application functionality wise testing only, the Product owner testing might be different as may have any additional testing.
 
-
-
-
-
-1. In refunds Refund Amt(Rs.) space
-2. * need to remove from issue date in einvoice
-3. In E kart description *
-4. customer name validation
-
-
-
-
 9916735706
 Dwa7@bhu1
 884821
