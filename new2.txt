@@ -41,7 +41,7 @@ asdf
 
 
 
-1. Shipping and discount
-2. In email customer reg number 
-3. customer wants to resend to another mobile number.
-4. 
+
+
+
+
